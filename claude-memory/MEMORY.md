@@ -1,0 +1,2 @@
+- [User role](user_role.md) — analog CAD engineer, learning Python for EDA flow work
+- [Docs location](feedback_docs_location.md) — generated docs go to /mnt/d/AI/doc/<category>/
