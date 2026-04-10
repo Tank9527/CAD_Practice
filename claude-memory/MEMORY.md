@@ -1,2 +1,3 @@
 - [User role](user_role.md) — analog CAD engineer, learning Python for EDA flow work
 - [Docs location](feedback_docs_location.md) — generated docs go to /mnt/d/AI/doc/<category>/
+- [Python practice repo](project_python_practice.md) — practice files live in ~/python-practice/dayNN/, with cross-machine memory sync via claude-memory/ + sync scripts
